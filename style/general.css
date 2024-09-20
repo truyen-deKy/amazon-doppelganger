@@ -1,0 +1,16 @@
+p {
+    font-family: Roboto, Arial;
+}
+div {
+    border-color: black;
+    border-style: none;
+}
+img {
+    border-style: none;
+}
+body {
+    margin: 0;
+    padding-top: 60px;
+    height: 1000px;
+    padding-left: 80px;
+}
